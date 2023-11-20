@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in various technologies, and I'm really looking forward to learning and getting feedback.
+Welcome to my GitHub profile! I'm a full-stack developer with experience in various technologies, and I'm really looking forward to learning and getting feedback from you.
 
 
 ## 🌐 Socials:
