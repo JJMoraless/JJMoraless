@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a full-stack developer specialized on Back-end
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
  
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JJMoraless&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JJMoraless&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJMoraless&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
