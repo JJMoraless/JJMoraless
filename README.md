@@ -3,6 +3,8 @@
 I'm a full-stack developer specialized on Back-end y and I'm really looking forward to learning and getting feedback from you.
 **Español**
 
+## 🌱 Currently, I'm learning:
+- typescript, clean rchitecture and patterns.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-jairo-morales-garc%C3%ADa-4b03a01a6/) 
@@ -24,8 +26,6 @@ I'm a full-stack developer specialized on Back-end y and I'm really looking forw
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
-#### 🌱 Currently, I'm learning:
-- typescript, clean rchitecture and patterns.
 
 ## I have studied
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
