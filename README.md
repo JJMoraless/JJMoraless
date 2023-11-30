@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a full-stack developer specialized on Back-end. and I'm really looking forward to learning and getting feedback from you.
+**Ingles**
+I'm a full-stack developer specialized on Back-end y and I'm really looking forward to learning and getting feedback from you.
+**Español**
 
 
 ## 🌐 Socials:
@@ -21,6 +23,9 @@ I'm a full-stack developer specialized on Back-end. and I'm really looking forwa
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+
+#### 🌱 Currently, I'm learning:
+- typescript, clean rchitecture and patterns.
 
 ## I have studied
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
