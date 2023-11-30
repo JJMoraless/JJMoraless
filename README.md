@@ -1,10 +1,9 @@
 # 💫 About Me:
-**Ingles**
 I'm a full-stack developer specialized on Back-end y and I'm really looking forward to learning and getting feedback from you.
-**Español**
 
-## 🌱 Currently, I'm learning:
-- typescript, clean rchitecture and patterns.
+## 🌱 Currently, :
+- I'm learning typescript, clean architecture and patterns.
+- Developing a hotel management system project with Node.js and MySQL using Sequelize.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-jairo-morales-garc%C3%ADa-4b03a01a6/) 
@@ -21,17 +20,10 @@ I'm a full-stack developer specialized on Back-end y and I'm really looking forw
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ## Front-end
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
-
-## I have studied
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
- 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JJMoraless&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJMoraless&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
