@@ -2,7 +2,7 @@
 I'm a full-stack developer specialized in Back-end. I'm eager to learn and receive feedback from you.
 
 ## 🌱 Currently:
-- I'm learning typescript, clean architecture and patterns.
+- I'm learning laravel and CodeIgniter.
 - Developing a hotel management system project with Node.js and MySQL using Sequelize.
 
 ## 🌐 Socials:
