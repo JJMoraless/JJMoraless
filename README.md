@@ -1,9 +1,8 @@
 # 💫 About Me:
-I'm a full-stack developer specialized in Back-end. I'm eager to learn and receive feedback from you.
+..
 
 ## 🌱 Currently:
-- I'm learning laravel, Clean Architecture, Angular.
-- Currently working with Facilpos.
+...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-jairo-morales-garc%C3%ADa-4b03a01a6/) 
